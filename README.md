@@ -1,2 +1,2 @@
-# CFG-Travel-Website
-I created this project with some on my team, whilst all studying Web Development with Code First Girls. 
+# CFG-Turkey-Quiz
+I created this quiz as part of my larger travel project. 
